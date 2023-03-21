@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Semen\work\Учёба\Для НГТУ\3 курс\6 семестр\МТ\Лаба_2\lab2_scanner\build\CMakeFiles\af1429f95a1ce50b8184ef0bbdc7bba6\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Semen\work\Учёба\Для НГТУ\3 курс\6 семестр\МТ\Лаба_2\lab2_scanner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Semen\work\Учёба\Для НГТУ\3 курс\6 семестр\МТ\Лаба_2\lab2_scanner\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0F502521-13D3-3840-9C4C-B623B539AC45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

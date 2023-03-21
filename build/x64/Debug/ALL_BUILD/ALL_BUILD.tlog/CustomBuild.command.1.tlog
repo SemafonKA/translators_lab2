@@ -1,0 +1,10 @@
+^C:\SEMEN\WORK\УЧЁБА\ДЛЯ НГТУ\3 КУРС\6 СЕМЕСТР\МТ\ЛАБА_2\LAB2_SCANNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Semen/work/Учёба/Для НГТУ/3 курс/6 семестр/МТ/Лаба_2/lab2_scanner" "-BC:/Semen/work/Учёба/Для НГТУ/3 курс/6 семестр/МТ/Лаба_2/lab2_scanner/build" --check-stamp-file "C:/Semen/work/Учёба/Для НГТУ/3 курс/6 семестр/МТ/Лаба_2/lab2_scanner/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

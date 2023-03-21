@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Semen\work\Учёба\Для НГТУ\3 курс\6 семестр\МТ\Лаба_2\lab2_scanner\lib\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Semen\work\Учёба\Для НГТУ\3 курс\6 семестр\МТ\Лаба_2\lab2_scanner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{684C66B3-6193-3432-B8D8-0E9471AAE876}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

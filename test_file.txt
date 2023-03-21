@@ -1,0 +1,13 @@
+int main() {
+    int ac = 0;
+
+    if (ac < 5) {
+        return 10;
+    } else if (ac != 0){
+        return ac;
+    } 
+    else {
+        return 5;
+    }
+}
+
